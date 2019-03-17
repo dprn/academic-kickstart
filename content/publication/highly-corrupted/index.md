@@ -8,6 +8,7 @@ featured = true
 publication = "*Journal of Mathematical Imaging and Vision*"
 url_pdf = "https://doi.org/10.1007/s10851-018-0810-4"
 url_preprint = "https://arxiv.org/abs/1502.07331"
+url_poster = "docs/posters/poster_hc.pdf"
 doi = "10.1007/s10851-018-0810-4"
 +++
 
