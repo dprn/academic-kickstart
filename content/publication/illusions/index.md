@@ -17,7 +17,7 @@ authors = ["Marcelo Bertalmío", "Luca Calatroni", "Valentina Franceschi", "Bene
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted at [SSVM2019](https://ssvm2019.mic.uni-luebeck.de/index.php?id=46)"
+publication = "*International Conference on Scale Space and Variational Methods in Computer Vision*"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "We consider a differential model describing neuro-physiological cont
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1007/978-3-030-22368-7_37"
 
 # Is this a featured publication? (true/false)
 featured = false
