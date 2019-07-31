@@ -1,6 +1,6 @@
 +++
 title = "Recent results on the essential self-adjointness of sub-Laplacians, with some remarks on the presence of characteristic points"
-date = 2015-10-30
+date = 2019-07-31
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Marcelo Bertalmío", "Luca Calatroni", "Valentina Franceschi", "Benedetta Franceschiello", " Alexander Gomez-Villa", "Dario Prandi"]
