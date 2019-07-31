@@ -1,5 +1,5 @@
 +++
-title = "Recent results on the essential self-adjointness of sub-Laplacians, with some remarks on the presence of characteristic points"
+title = "Visual illusions via neural dynamics: Wilson-Cowan-type models and the efficient representation principle"
 date = 2019-07-31
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
